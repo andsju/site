@@ -1,0 +1,8 @@
+# Site settings
+title: En titel
+
+# Build settings
+markdown: kramdown
+
+gems:
+- jemoji
